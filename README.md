@@ -332,7 +332,7 @@ Si vous trouvez ce projet utile, n'oubliez pas de lui donner une ⭐ sur GitHub!
 
 <div align="center">
 
-**Fait avec  pour le Machine Learning**
+**Fait    pour le Machine Learning**
 
 ![Python](https://forthebadge.com/images/badges/made-with-python.svg)
 ![Love](https://forthebadge.com/images/badges/built-with-love.svg)
