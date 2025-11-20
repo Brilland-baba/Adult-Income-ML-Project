@@ -299,9 +299,7 @@ Mesure la capacité du modèle à discriminer entre les classes.
 
 **BABA Brilland**
 
-📧 Email: [votre.email@example.com](mailto:votre.email@example.com)  
-🔗 LinkedIn: [Votre LinkedIn](https://linkedin.com/in/votre-profil)  
-💼 Portfolio: [Votre Portfolio](https://votre-site.com)
+📧 Email: [bababrilland@gmail.com](mailto:bababrilland@gmail.com)  
 
 ### Encadrement
 
